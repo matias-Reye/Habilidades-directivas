@@ -65,7 +65,7 @@ a:hover {
   position: relative;
   margin-right: 20px; /* Margen derecho para separar del contenido adyacente */
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
-    url("recursos/people-1979261.jpg");
+    url("https://github.com/matias-Reye/Habilidades-directivas/blob/86ea41ff3ae2f2a2ca9010aa8ebaf8f7c9a449e9/recursos/people-1979261.jpg");
   background-position: center;
   background-size: cover;
 }
